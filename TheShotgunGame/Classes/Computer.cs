@@ -13,13 +13,10 @@ namespace TheShotgunGame.Classes
     {
         public FormShotgun form;
         public ActionOutcomes actionOutcomes;
-        //private int ammo;
 
-        //SKRIV BARA KLASSER DU VET DU BEHÖVER HÄMTA DATA/SKICKA FRÅN/TILL
         public Computer(FormShotgun form)
         {
             this.form = form;
-            //this.ammo = ammo;   
         }
 
         public void SetActionOutcomes(ActionOutcomes actionOutcomes)
@@ -27,7 +24,6 @@ namespace TheShotgunGame.Classes
             this.actionOutcomes = actionOutcomes;
         }
 
-        //VET INTE OM DEN HÄR ÄR NÖDVÄNDIG?
         int computerAmmo
         {
             get { return ammo; }
@@ -46,19 +42,18 @@ namespace TheShotgunGame.Classes
         {
           form.ComputerAmmoLabel.Text = $"{ammo}";
         }
-    public string ComputerLogic()
+        public string ComputerLogic()
         {
-        //Här startar datorns logik
         Random cpu = new Random();
         string computerChoice = "";
-        //Om datorn har 3 eller fler skott MÅSTE den använda Shotgun
+        
         if (computerAmmo >= 3)
         {
             computerChoice = "Shotgun";
                 Debug.WriteLine("Datorn har tillräckligt med skott och använder Shotgun!");
                 return computerChoice;
         }
-        //Slumptal och switch-case
+        
         int computerLogic = cpu.Next(1, 4);
         switch (computerLogic)
         {
@@ -76,7 +71,6 @@ namespace TheShotgunGame.Classes
                     }
                     else
                     {
-                        //Här hamnar datorn om den inte har skott men försöker ändå skjuta, den hoppar tillbaka till början av förloppet
                         Debug.WriteLine("Datorn kan inte skjuta eftersom den inte har några skott");
                         return ComputerLogic();
                     }
@@ -87,7 +81,6 @@ namespace TheShotgunGame.Classes
 
             string lastComputerMove = computerChoice;
             
-            //lastPlayerAction += playerAction;
             if (lastComputerMove == "Skjut")
             {
                 if(computerAmmo == 0)
@@ -105,7 +98,6 @@ namespace TheShotgunGame.Classes
             {
 
             }
-            //Datorn ska bara kunna använda Shotgun om den har 3 skott
             else if (lastComputerMove == "Shotgun")
             {
                 if (computerAmmo >= 3)
@@ -124,7 +116,5 @@ namespace TheShotgunGame.Classes
             }
             return lastComputerMove;
         }
-
-
     }
 }
