@@ -1,0 +1,17 @@
+C:\Users\Holad\source\repos\01. Programmering i C# HT24\Inlämningar\TheShotgunGame\bin\Debug\net8.0-windows\TheShotgunGame.exe
+C:\Users\Holad\source\repos\01. Programmering i C# HT24\Inlämningar\TheShotgunGame\bin\Debug\net8.0-windows\TheShotgunGame.deps.json
+C:\Users\Holad\source\repos\01. Programmering i C# HT24\Inlämningar\TheShotgunGame\bin\Debug\net8.0-windows\TheShotgunGame.runtimeconfig.json
+C:\Users\Holad\source\repos\01. Programmering i C# HT24\Inlämningar\TheShotgunGame\bin\Debug\net8.0-windows\TheShotgunGame.dll
+C:\Users\Holad\source\repos\01. Programmering i C# HT24\Inlämningar\TheShotgunGame\bin\Debug\net8.0-windows\TheShotgunGame.pdb
+C:\Users\Holad\source\repos\01. Programmering i C# HT24\Inlämningar\TheShotgunGame\obj\Debug\net8.0-windows\TheShotgunGame.FormShotgun.resources
+C:\Users\Holad\source\repos\01. Programmering i C# HT24\Inlämningar\TheShotgunGame\obj\Debug\net8.0-windows\TheShotgunGame.Properties.Resources.resources
+C:\Users\Holad\source\repos\01. Programmering i C# HT24\Inlämningar\TheShotgunGame\obj\Debug\net8.0-windows\TheShotgunGame.csproj.GenerateResource.cache
+C:\Users\Holad\source\repos\01. Programmering i C# HT24\Inlämningar\TheShotgunGame\obj\Debug\net8.0-windows\TheShotgunGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Holad\source\repos\01. Programmering i C# HT24\Inlämningar\TheShotgunGame\obj\Debug\net8.0-windows\TheShotgunGame.AssemblyInfoInputs.cache
+C:\Users\Holad\source\repos\01. Programmering i C# HT24\Inlämningar\TheShotgunGame\obj\Debug\net8.0-windows\TheShotgunGame.AssemblyInfo.cs
+C:\Users\Holad\source\repos\01. Programmering i C# HT24\Inlämningar\TheShotgunGame\obj\Debug\net8.0-windows\TheShotgunGame.csproj.CoreCompileInputs.cache
+C:\Users\Holad\source\repos\01. Programmering i C# HT24\Inlämningar\TheShotgunGame\obj\Debug\net8.0-windows\TheShotgunGame.dll
+C:\Users\Holad\source\repos\01. Programmering i C# HT24\Inlämningar\TheShotgunGame\obj\Debug\net8.0-windows\refint\TheShotgunGame.dll
+C:\Users\Holad\source\repos\01. Programmering i C# HT24\Inlämningar\TheShotgunGame\obj\Debug\net8.0-windows\TheShotgunGame.pdb
+C:\Users\Holad\source\repos\01. Programmering i C# HT24\Inlämningar\TheShotgunGame\obj\Debug\net8.0-windows\TheShotgunGame.genruntimeconfig.cache
+C:\Users\Holad\source\repos\01. Programmering i C# HT24\Inlämningar\TheShotgunGame\obj\Debug\net8.0-windows\ref\TheShotgunGame.dll

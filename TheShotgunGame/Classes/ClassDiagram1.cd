@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TheShotgunGame.Classes.GameBase">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAEggAAA=</HashCode>
+      <FileName>Classes\GameBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheShotgunGame.Classes.Computer">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAAAAAAAAAAAAAAAAAAAAQAIQAAAAAAAAAAEAAAAgA=</HashCode>
+      <FileName>Classes\Computer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheShotgunGame.FormShotgun">
+    <Position X="1" Y="0.75" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>MAAQAAgJASEAEAAAEMCIKAACNEAAAYABBAAQEABCAAA=</HashCode>
+      <FileName>FormShotgun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheShotgunGame.Classes.ActionOutcomes">
+    <Position X="7.75" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAAAAAAAAAAAAAAAAEAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ActionOutcomes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheShotgunGame.Classes.Player">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAAAAAAAAAAAAAAAAIAAAAAIQAAAAACAAAAEAAAAAA=</HashCode>
+      <FileName>Classes\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
